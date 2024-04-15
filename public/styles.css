@@ -1,0 +1,51 @@
+ #logo1{
+    width:10vw;
+    height:10vh;
+}
+
+.login_btn{
+    margin-top:4vh;
+}
+
+.navbar-nav .nav-link {
+    text-decoration: none;
+}
+#heading1{
+    color:blue;
+}
+.carousel {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+    
+}
+.carousel-inner img{
+   height: 70vh;
+   width: 70vw;
+}
+.frame2{
+    width:100%;
+    /* max-height:40vh; */
+}
+#common{
+    width: 100%;
+    max-height: 10vh;
+    /* height: 5vh; */
+    /* object-fit:cover; */
+}
+
+
+.text-curve{
+        font-family: 'Corinthia', cursive;
+        font-weight: bold;
+        color: #EEC058;
+        text-transform: none;
+        font-size: 150%;
+        line-height: 110%;
+        display: block;
+}
+
+
+
